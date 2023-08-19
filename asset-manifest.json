@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/FMIS2/static/css/main.8477d473.css",
-    "main.js": "/FMIS2/static/js/main.f26a8177.js",
+    "main.css": "/FMIS2/static/css/main.e1f00524.css",
+    "main.js": "/FMIS2/static/js/main.434a08a1.js",
+    "static/media/state-minister.jpg": "/FMIS2/static/media/state-minister.f5d19e7c470d78bb4b49.jpg",
     "static/media/bananna.jpg": "/FMIS2/static/media/bananna.7e3082bda4babaec9a3a.jpg",
     "static/media/cotton.jpg": "/FMIS2/static/media/cotton.cb6e29d7a107dbb88818.jpg",
     "static/media/maize.jpg": "/FMIS2/static/media/maize.f036b8d5497a665d8cbe.jpg",
     "static/media/paddy.jpg": "/FMIS2/static/media/paddy.0d10e1e0d6f32d762bae.jpg",
     "static/media/papaya.jpg": "/FMIS2/static/media/papaya.1013e701120b70215b24.jpg",
     "static/media/background.jpg": "/FMIS2/static/media/background.2c01298539fa32ca77d0.jpg",
+    "static/media/unionminister.jpg": "/FMIS2/static/media/unionminister.73d29b99597f44e6d97a.jpg",
+    "static/media/indiancoucil.jpg": "/FMIS2/static/media/indiancoucil.6f1eba952bbee46169e2.jpg",
     "static/media/logo.jpg": "/FMIS2/static/media/logo.a91fdbad528a3d119ff7.jpg",
     "index.html": "/FMIS2/index.html",
-    "main.8477d473.css.map": "/FMIS2/static/css/main.8477d473.css.map",
-    "main.f26a8177.js.map": "/FMIS2/static/js/main.f26a8177.js.map"
+    "main.e1f00524.css.map": "/FMIS2/static/css/main.e1f00524.css.map",
+    "main.434a08a1.js.map": "/FMIS2/static/js/main.434a08a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.8477d473.css",
-    "static/js/main.f26a8177.js"
+    "static/css/main.e1f00524.css",
+    "static/js/main.434a08a1.js"
   ]
 }
