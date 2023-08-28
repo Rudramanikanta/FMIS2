@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/FMIS2/static/css/main.71d2ee55.css",
-    "main.js": "/FMIS2/static/js/main.bb4ad061.js",
+    "main.css": "/FMIS2/static/css/main.43fa9a3c.css",
+    "main.js": "/FMIS2/static/js/main.2e5915d8.js",
     "static/media/state-minister.jpg": "/FMIS2/static/media/state-minister.f5d19e7c470d78bb4b49.jpg",
     "static/media/bananna.jpg": "/FMIS2/static/media/bananna.7e3082bda4babaec9a3a.jpg",
     "static/media/cotton.jpg": "/FMIS2/static/media/cotton.cb6e29d7a107dbb88818.jpg",
@@ -13,11 +13,11 @@
     "static/media/indiancoucil.jpg": "/FMIS2/static/media/indiancoucil.6f1eba952bbee46169e2.jpg",
     "static/media/logo.jpg": "/FMIS2/static/media/logo.a91fdbad528a3d119ff7.jpg",
     "index.html": "/FMIS2/index.html",
-    "main.71d2ee55.css.map": "/FMIS2/static/css/main.71d2ee55.css.map",
-    "main.bb4ad061.js.map": "/FMIS2/static/js/main.bb4ad061.js.map"
+    "main.43fa9a3c.css.map": "/FMIS2/static/css/main.43fa9a3c.css.map",
+    "main.2e5915d8.js.map": "/FMIS2/static/js/main.2e5915d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.71d2ee55.css",
-    "static/js/main.bb4ad061.js"
+    "static/css/main.43fa9a3c.css",
+    "static/js/main.2e5915d8.js"
   ]
 }
